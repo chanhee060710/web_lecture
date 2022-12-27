@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: aliceblue;
+    width: 600px;
+}
+.title{
+height: 100px;
+width: 100px;
+background-color: aquamarine;
+}
+.content{
+height: 200px;
+width: 200px;
+background-color: blanchedalmond;
+}
